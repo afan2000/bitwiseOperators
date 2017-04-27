@@ -11,7 +11,7 @@ Solutions are calculated using bolean operations
 We can perform addition without elementary operators by first viewing how traditional addition is done:
 1. We first have to 'carry' numbers over. For example, when adding 15 + 5:
     15   
-   + 5   
+  -+ 5   
    ----   
      0
    
