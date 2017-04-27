@@ -83,9 +83,9 @@ int main()
 		std::cin >> y;
 		std::cout << "answer: " << addition(x, y);
 		return 0;
-	case 2: std::cout << "Enter subtrahend: ";
+	case 2: std::cout << "Enter minuend: ";
 		std::cin >> x;
-		std::cout << "Enter minuend: ";
+		std::cout << "Enter subtrahend: ";
 		std::cin >> y;
 		std::cout << "answer: " << subtraction(x, y);
 		return 0;
